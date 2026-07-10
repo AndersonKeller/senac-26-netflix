@@ -5,4 +5,5 @@ Replicar a página de usuários da Netflix em uma página web
 
 Como entregar:
 Criar um repositório no github e enviar o link
-  
+
+Até terça-feira dia 14/07 as 21h
